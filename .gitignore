@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/City population/out/
+/Problems/City population/out/production/classes/
+/Problems/Difference between two doubles/out/
+/Problems/Difference between two doubles/out/production/classes/
+/Problems/First, second, third/out/
+/Problems/First, second, third/out/production/classes/
+/Problems/The result of a game in Tic-Tac-Toe/out/
+/Problems/The result of a game in Tic-Tac-Toe/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/

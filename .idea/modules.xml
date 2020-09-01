@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/Coffee_Machine.Problems-City_population.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/Coffee_Machine.Problems-City_population.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/Coffee_Machine.Problems-City_population.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/Coffee_Machine.Problems-City_population.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/Coffee_Machine.Problems-City_population.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/Coffee_Machine.Problems-City_population.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Coffee_Machine.Problems-Difference_between_two_doubles.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Coffee_Machine.Problems-Difference_between_two_doubles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Coffee_Machine.Problems-Difference_between_two_doubles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Coffee_Machine.Problems-Difference_between_two_doubles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Coffee_Machine.Problems-Difference_between_two_doubles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Coffee_Machine.Problems-Difference_between_two_doubles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First, second, third/Coffee_Machine.Problems-First,_second,_third.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First, second, third/Coffee_Machine.Problems-First,_second,_third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First, second, third/Coffee_Machine.Problems-First,_second,_third.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First, second, third/Coffee_Machine.Problems-First,_second,_third.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First, second, third/Coffee_Machine.Problems-First,_second,_third.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First, second, third/Coffee_Machine.Problems-First,_second,_third.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The result of a game in Tic-Tac-Toe/Coffee_Machine.Problems-The_result_of_a_game_in_Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The result of a game in Tic-Tac-Toe/Coffee_Machine.Problems-The_result_of_a_game_in_Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The result of a game in Tic-Tac-Toe/Coffee_Machine.Problems-The_result_of_a_game_in_Tic-Tac-Toe.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The result of a game in Tic-Tac-Toe/Coffee_Machine.Problems-The_result_of_a_game_in_Tic-Tac-Toe.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The result of a game in Tic-Tac-Toe/Coffee_Machine.Problems-The_result_of_a_game_in_Tic-Tac-Toe.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The result of a game in Tic-Tac-Toe/Coffee_Machine.Problems-The_result_of_a_game_in_Tic-Tac-Toe.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
